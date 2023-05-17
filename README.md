@@ -8,7 +8,7 @@ Well, hello! <img width="30px" src="https://github.com/DouglasCorreiaBrito/Dougl
 | About me      | Contact me | Interest |
 | ------------- | ------------- | ------------- |
 | :triangular_flag_on_post:&nbsp;&nbsp;&nbsp;I live in **Brazil!**  | 📫&nbsp;&nbsp;&nbsp;Email me at douglas.lusvardi@gmail.com  |:wink: Interested in Web development. Focus on backend|
-| 💼&nbsp;&nbsp;&nbsp;Junior Developer at <a href="https://mercadolibre.com/">Mercado Livre</a>  | 🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://www.linkedin.com/in/douglas-correia-15816a153/" target="_blank">LinkedIn</a>  |:snake: interested in collaborating on open source projects| 
+| 💼&nbsp;&nbsp;&nbsp; Developer at <a href="https://mercadolibre.com/">Mercado Livre</a>  | 🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://www.linkedin.com/in/douglas-correia-15816a153/" target="_blank">LinkedIn</a>  |:snake: interested in collaborating on open source projects| 
 | :book:&nbsp;&nbsp;&nbsp;I’m currently learning **PHP** | 💬&nbsp;&nbsp;&nbsp; Ask me about anything, I am happy to help  | :books: Reading more about communication, philosophy and how the computer works.|
 
 
